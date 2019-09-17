@@ -1,7 +1,3 @@
-//Future ideas:what's the news (can tailor interests), flesh out ai part
-//Changes:
-//Replace Jokes json with better jokes that don't suck
-
 'use strict'
 
 const express = require('express')

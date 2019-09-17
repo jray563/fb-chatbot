@@ -1,9 +1,9 @@
 const request = require('request')
 
-const facebook_token = 'EAAHSLZCHYTVsBADQnI8lqfrjF0vigs7iNFFKejg4CZC796R3lZAyZB9EvAvhpbdbXV5jXZAPRAkZA6NSixm1znSaU4me3FpYGspXx5QWk66E4a2usAUi8BcaW6ZC9VZCitwHjl7xGsBgFkanfENnXnzPxSLGDWmiSxRZBpZBh8XN3h1gZDZD'
-const weather_token = 'fdaf5d615bfe95a5a55ede0f066b9509'
-const zip_code = '95124'
-const dialogflow_token = 'a6e7d50d08514ee095c1f1667257588c'
+const facebook_token = ''
+const weather_token = ''
+const zip_code = ''
+const dialogflow_token = ''
 
 const sendTextMessage = (senderId, text) => {
 	request({
